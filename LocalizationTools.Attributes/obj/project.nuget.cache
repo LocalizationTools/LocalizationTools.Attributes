@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "1Fy4/ng8vLiLDJ7KdKyrOLlN3tNiU/R1UxTchVS8iklraadyBhYdhmxUZK9awMVFy5XAuGNIHK7OXjkI04dX9g==",
+  "success": true,
+  "projectFilePath": "F:\\Projects\\LocalizationTools\\LocalizationTools.Attributes\\LocalizationTools.Attributes\\LocalizationTools.Attributes.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\admin\\.nuget\\packages\\jetbrains.annotations\\2022.1.0\\jetbrains.annotations.2022.1.0.nupkg.sha512",
+    "C:\\Users\\admin\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\admin\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

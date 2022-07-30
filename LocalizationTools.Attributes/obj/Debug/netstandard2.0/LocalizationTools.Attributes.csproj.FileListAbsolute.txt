@@ -1,0 +1,9 @@
+F:\Projects\LocalizationTools\LocalizationTools.Attributes\LocalizationTools.Attributes\bin\Debug\netstandard2.0\LocalizationTools.Attributes.deps.json
+F:\Projects\LocalizationTools\LocalizationTools.Attributes\LocalizationTools.Attributes\bin\Debug\netstandard2.0\LocalizationTools.Attributes.dll
+F:\Projects\LocalizationTools\LocalizationTools.Attributes\LocalizationTools.Attributes\bin\Debug\netstandard2.0\LocalizationTools.Attributes.pdb
+F:\Projects\LocalizationTools\LocalizationTools.Attributes\LocalizationTools.Attributes\obj\Debug\netstandard2.0\LocalizationTools.Attributes.GeneratedMSBuildEditorConfig.editorconfig
+F:\Projects\LocalizationTools\LocalizationTools.Attributes\LocalizationTools.Attributes\obj\Debug\netstandard2.0\LocalizationTools.Attributes.AssemblyInfoInputs.cache
+F:\Projects\LocalizationTools\LocalizationTools.Attributes\LocalizationTools.Attributes\obj\Debug\netstandard2.0\LocalizationTools.Attributes.AssemblyInfo.cs
+F:\Projects\LocalizationTools\LocalizationTools.Attributes\LocalizationTools.Attributes\obj\Debug\netstandard2.0\LocalizationTools.Attributes.csproj.CoreCompileInputs.cache
+F:\Projects\LocalizationTools\LocalizationTools.Attributes\LocalizationTools.Attributes\obj\Debug\netstandard2.0\LocalizationTools.Attributes.dll
+F:\Projects\LocalizationTools\LocalizationTools.Attributes\LocalizationTools.Attributes\obj\Debug\netstandard2.0\LocalizationTools.Attributes.pdb
